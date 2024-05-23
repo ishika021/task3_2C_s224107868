@@ -1,6 +1,5 @@
 package sit707_tasks;
 
-import java.util.Random;
 
 import org.junit.Assert;
 import org.junit.Test;
